@@ -1,0 +1,11 @@
+{
+  "routes": [
+    { "path": "/", "title": "October Electrical Services" },
+    { "path": "/about.html", "title": "About Us | October Electrical Services" },
+    { "path": "/services.html", "title": "Services | October Electrical Services" },
+    { "path": "/projects.html", "title": "Our Work | October Electrical Services" },
+    { "path": "/why-us.html", "title": "Why Choose Us | October Electrical Services" },
+    { "path": "/pricing.html", "title": "Pricing & Enquiries | October Electrical Services" },
+    { "path": "/contact.html", "title": "Contact Us | October Electrical Services" }
+  ]
+}
